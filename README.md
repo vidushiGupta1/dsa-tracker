@@ -1,7 +1,5 @@
 # dsa-tracker
 Daily DSA practice repository to build problem-solving skills and consistency.
-<br>
-<br>
 
 ## 🎯 Repository Purpose
 * **Goal:** Solve and push 2 DSA problems every day.
